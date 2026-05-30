@@ -1,0 +1,89 @@
+/* Modern Popup Checkout Admin Styles */
+
+.mppc-settings {
+	max-width: 800px;
+}
+
+.mppc-settings-container {
+	margin-top: 20px;
+}
+
+.mppc-settings-section {
+	margin-bottom: 30px;
+	padding: 20px;
+	background: white;
+	border-radius: 8px;
+	border: 1px solid #e0e0e0;
+}
+
+.mppc-settings-section h2 {
+	margin-top: 0;
+	margin-bottom: 20px;
+	font-size: 18px;
+	font-weight: 600;
+	color: #333;
+}
+
+.mppc-settings-section .form-table {
+	margin: 0;
+}
+
+.mppc-settings-section .form-table th {
+	padding: 15px 20px;
+}
+
+.mppc-settings-section .form-table td {
+	padding: 15px 20px;
+}
+
+.mppc-settings-section .form-table input[type="checkbox"] {
+	cursor: pointer;
+}
+
+.mppc-settings-section .form-table input[type="checkbox"]:disabled {
+	cursor: not-allowed;
+}
+
+.mppc-settings-section .description {
+	display: block;
+	margin-top: 5px;
+	font-size: 12px;
+	color: #666;
+}
+
+/* Color Picker */
+.color-picker {
+	width: 80px !important;
+	height: 40px;
+	cursor: pointer;
+}
+
+/* Info Box */
+.mppc-info-box {
+	background: #f5f5f5;
+	border-left: 4px solid #6366f1;
+	padding: 15px 20px;
+	border-radius: 4px;
+	margin: 0;
+}
+
+.mppc-info-box h3 {
+	margin: 0 0 10px 0;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.mppc-info-box p {
+	margin: 0;
+	font-size: 13px;
+	color: #666;
+}
+
+.mppc-info-box a {
+	color: #6366f1;
+	text-decoration: none;
+}
+
+.mppc-info-box a:hover {
+	text-decoration: underline;
+}
